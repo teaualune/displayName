@@ -19,6 +19,20 @@ The regular expression to detect CJK characters is generated from [Unicode range
 `displayName.js` does not deal with middle names,
 so feel free to modify the code to fit your needs.
 
+### Installation
+
+For Node.js:
+
+```
+npm install display-name
+```
+
+For frontend:
+
+```html
+<script type="text/javascript" src="displayName.min.js"></script>
+```
+
 ### Usage and Examples
 
 ```js
