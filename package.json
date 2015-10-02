@@ -1,0 +1,24 @@
+{
+  "name": "display-name",
+  "version": "0.0.1",
+  "description": "Make correct first name/last name combination among differerent languages",
+  "main": "displayName.js",
+  "author": {
+    "name": "Tai-Lun Tseng"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/teaualune/displayName.git"
+  },
+  "devDependencies": {
+    "uglify-js": "^2.4.24"
+  },
+  "scripts": {
+    "build": "node build"
+  },
+  "bugs": {
+    "url": "https://github.com/teaualune/displayName/issues"
+  },
+  "homepage": "https://github.com/teaualune/displayName"
+}
