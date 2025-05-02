@@ -1,8 +1,8 @@
 {
   "name": "display-name",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Make correct first name/last name combination among differerent languages",
-  "main": "displayName.js",
+  "main": "displayName.ts",
   "author": {
     "name": "Tai-Lun Tseng"
   },
